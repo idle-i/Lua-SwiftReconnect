@@ -6,7 +6,6 @@
 
 - A small Lua script that will help you quickly reconnect to the SAMP server.
 <br/>
-<br/>
 
 ### Using
 
@@ -24,19 +23,16 @@ You can use the command without specifying a delay. In this case, the reconnecti
 
 - To install the script, move the rec.luac file to the moonloader folder.
 <br/>
-<br/>
 
 ### Dependency
 
 - Moonloader v.026
-<br/>
 <br/>
 
 ### Changelog
 
 - 1.0.0
   - First release
-<br/>
 <br/>
 
 ### Author
@@ -51,7 +47,6 @@ You can use the command without specifying a delay. In this case, the reconnecti
 ### Информация
 
 - Небольшой Lua-скрипт, который поможет вам быстро переподключиться к серверу SAMP.
-<br/>
 <br/>
 
 ### Использование
@@ -70,19 +65,16 @@ You can use the command without specifying a delay. In this case, the reconnecti
 
 - Чтобы установить скрипт, переместите файл rec.luac в папку moonloader.
 <br/>
-<br/>
 
 ### Зависимости
 
 - Moonloader v.026
-<br/>
 <br/>
 
 ### История версий
 
 - 1.0.0
   - Первый релиз
-<br/>
 <br/>
 
 ### Автор
